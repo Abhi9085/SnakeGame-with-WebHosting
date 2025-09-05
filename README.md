@@ -17,7 +17,6 @@ A classic Snake game built with **Flutter**, playable on web and mobile. Keep yo
 
 ## 🖼️ Screenshots
 
-<!-- Replace with your actual screenshot files -->
 ![image alt](https://github.com/Abhi9085/SnakeGame-with-WebHosting/blob/master/Screenshot_20250905-2251111.jpg?raw=true)  
 ![image alt](https://github.com/Abhi9085/SnakeGame-with-WebHosting/blob/master/Screenshot_20250905-22521111.jpg?raw=true)  
 
@@ -30,42 +29,32 @@ A classic Snake game built with **Flutter**, playable on web and mobile. Keep yo
 flutter run -d chrome  # For web
 flutter run            # For mobile
 
-    Use arrow keys (desktop) or swipe (mobile) to move the snake
-
-    Eat the food to grow and earn points
-
-    Avoid running into yourself
-
-    Submit your score at the end or cancel
+1 = Use arrow keys (desktop) or swipe (mobile) to move the snake
+2 = Eat the food to grow and earn points
+3 = Avoid running into yourself
+4 = Submit your score at the end or cancel
 
 💾 Tech Stack
-
-    Flutter
-
-    Dart
-
-    Firebase Firestore (for storing high scores)
++ Flutter
++ Dart
++ Firebase Firestore (for storing high scores)
 
 🔧 Installation
-
-    Clone the repo:
-
+Clone the repo:
 git clone https://github.com/YourUsername/SnakeGame.git
 
-    Install dependencies:
-
+Install dependencies:
 flutter pub get
 
-    Run the project:
-
+Run the project:
 flutter run
 
 📄 License
-
 This project is licensed under the MIT License.
 
+## Play the Game Online 🎮
+Try the game live here: https://snakegame-75ebf.web.app/
 
-### ✅ How to add your screenshots:
-1. Create a folder in your repo called `screenshots/`.  
-2. Place your images there, e.g., `gameplay.png`, `gameover.png`.  
-3. Replace the paths in the `![Gameplay](screenshots/gameplay.png)` lines. 
+LinkedIn - https://www.linkedin.com/in/abhinav-vishwakarma-227a95332
+Gmail - abhisharma9085@gmail.com
+
