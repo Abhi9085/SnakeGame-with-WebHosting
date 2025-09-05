@@ -18,8 +18,8 @@ A classic Snake game built with **Flutter**, playable on web and mobile. Keep yo
 ## 🖼️ Screenshots
 
 <!-- Replace with your actual screenshot files -->
-![image alt]()  
-![image alt]()  
+![image alt](https://github.com/Abhi9085/SnakeGame-with-WebHosting/blob/master/Screenshot_20250905-2251111.jpg?raw=true)  
+![image alt](https://github.com/Abhi9085/SnakeGame-with-WebHosting/blob/master/Screenshot_20250905-22521111.jpg?raw=true)  
 
 ---
 
